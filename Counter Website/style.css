@@ -1,0 +1,5 @@
+#add:hover, #reset:hover{
+    background-color: yellow;
+    color: aqua;
+    cursor: pointer;
+}

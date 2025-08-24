@@ -1,4 +1,4 @@
-# Passenger-Counter
+# Basic Counter
 First Program written with JavaScript along with HTML and CSS
 
 Remixing Ethically: A Note from the Author
